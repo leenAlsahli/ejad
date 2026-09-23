@@ -2,7 +2,6 @@
   <img src="assets/logoo.png" alt="Ejad Logo" width="240">
 </p>
 
-# Ejad — Network Solutions Application
 
 A multi-threaded client-server desktop application built in Java, designed to solve linear equations over TCP with live network monitoring and round-trip-time (RTT) tracking.
 
