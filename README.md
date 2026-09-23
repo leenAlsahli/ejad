@@ -29,7 +29,7 @@ Rather than settling for a typical networking course project built around backen
 3. The server dashboard logs every connection and request live, while the client tracks and displays RTT for each exchange.
 
 ## Running Locally
-1. Open the project folder in Visual Studio (or your preferred Java-supported IDE).
+1. Open the project folder in your preferred Java-supported IDE.
 2. Run `EjadServer.java` first to start the server.
 3. Then run `EjadClient.java` in a separate run configuration to connect as a client.
 
